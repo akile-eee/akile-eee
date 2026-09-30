@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Akile 👋
 
-<!--
-**akile-eee/akile-eee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical & Electronics Engineering Student ⚡
 
-Here are some ideas to get you started:
+I'm interested in UAVs, avionics systems, embedded systems and electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on different projects to improve my skills in both hardware and software.
+
+---
+
+###  Interests
+
+- UAV & Avionics Systems
+- Embedded Systems
+- Electronics & PCB Design
+- Communication Systems
+
+###  Currently Learning
+
+- Embedded systems
+- PCB design
+- UAV electronics
+- Communication systems
+
+---
+
+> Learning by building, improving by doing.
