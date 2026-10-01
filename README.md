@@ -41,4 +41,4 @@ Currently working on different projects to improve my skills in both hardware an
 
 ---
 
-> Learning by building, improving by doing.
+> Be a voice. Not an echo.
